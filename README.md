@@ -1,1 +1,0 @@
-THIS IS A TEXT READ 1.txt
