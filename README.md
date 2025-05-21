@@ -1,1 +1,1 @@
-READ 1.txt
+THIS IS A TEXT READ 1.txt
